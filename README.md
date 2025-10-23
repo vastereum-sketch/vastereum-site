@@ -7,7 +7,7 @@ Official multi-page crypto landing site for **Vastereum Blockchain**.
 ### To deploy manually:
 ```bash
 git init
-git remote add origin https://github.com/USERNAME/vastereum-site.git
+git remote add origin https://github.com/vastereum/vastereum-site.git
 git add .
 git commit -m "Initial Vastereum website"
 git push -u origin main
